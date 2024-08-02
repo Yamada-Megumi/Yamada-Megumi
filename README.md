@@ -56,8 +56,6 @@ I was previously an animator and game designer in Tokyo. After moving back to my
 <!-- BLOG-POST-LIST:START -->  
 If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
 <!-- BLOG-POST-LIST:END -->
-<br>
-<div align="center"><img src="https://rishavanand.github.io/static/images/spotify-readme-example.svg"></div>
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=Yamada-Megumi&&style=flat-square" align="center">
@@ -69,7 +67,6 @@ src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=
 align="center">
 </a>
 </div>
-
 
 ----
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
