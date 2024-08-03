@@ -2,7 +2,7 @@
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%">
 </div>
 
-### <div>I am Megumi, a website specialist 🚀. 
+### <div>I am Megumi, will be a website specialist 🚀. 
 I was previously an animator and game designer in Tokyo. After moving back to my hometown, I've been working as an IT instructor for over 20 years.</div>
 
 - Currently, I teach short programming courses at a vocational training school.
