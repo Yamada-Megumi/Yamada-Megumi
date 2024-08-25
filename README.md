@@ -49,7 +49,7 @@ I was previously an animator and game designer in Tokyo. After moving back to my
 </div>  
 
 ## Github Stats  
-<div style="text-align:center"><img src="https://github-readme-stats.vercel.app/api?username=rishavanand&show_icons=true&count_private=true&hide_border=true" align="center"></div>
+<!--<div style="text-align:center"><img src="https://github-readme-stats.vercel.app/api?username=rishavanand&show_icons=true&count_private=true&hide_border=true" align="center"></div>-->
 
 ## Other
 <div style="text-align:center">
