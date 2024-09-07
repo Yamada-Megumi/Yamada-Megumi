@@ -7,6 +7,7 @@ I was previously an animator and game designer in Tokyo. After moving back to my
 
 - Currently, I am student at OUJ, but, I am working short programming courses at a vocational training school.
 - I can provide support in HTML, CSS, PHP, databases, and JavaScript.
+- I intend to create and be able to offer web services.
 
 ## My Skills
 ### BackEnd Side
