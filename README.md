@@ -1,65 +1,107 @@
+# 👩‍💻 Megumi Yamada
+
+こんにちは！Megumiです。  
+**Front end エンジニア** スキルアップ中です 🚀
+
+東京で **アニメーター** や **ゲームデザイナー** として活動後、Webサイト制作の経験を経て、地元に戻り、**IT講師**として20年以上の経験を積んできました。  
+現在は制作会社で **WordPressのフロントエンドエンジニア** として経験を積んでいます。
+
+---
+
+## 🛠 スキルセット
+
+### 💻 フロントエンド
+
+- 🧩 **HTML5 / CSS3 / JavaScript**  
+  セマンティックなマークアップ、レスポンシブデザイン、DOM操作、イベント処理などの基本技術
+
+- 🎨 **UI/UXデザイン**  
+  ユーザー視点での画面設計、ワイヤーフレーム作成、ユーザーテストの実施
+
+- 🖌️ **Adobe Illustrator / Photoshop**  
+  ロゴ・バナー・アイコンなどのグラフィック制作、画像編集
+
+- 🧪 **Figma / Adobe XD**  
+  プロトタイピング、UI設計、チームでのデザイン共有
+
+- 📱 **レスポンシブデザイン**  
+  モバイルファーストの設計、メディアクエリの活用
+
+---
+
+### 🧰 バックエンド
+
+- 🐘 **PHP / MySQL**  
+  サーバーサイド開発、データベース連携、フォーム処理、セッション管理
+
+- 🧱 **WordPress**  
+  テーマ・プラグインのカスタマイズ、サイト構築、SEO対策
+
+- 🔗 **REST API**  
+  APIの設計・利用、外部サービスとの連携
+
+---
+
+### 🔧 開発ツール & ワークフロー
+
+- 🧬 **Git / GitHub**  
+  バージョン管理、ブランチ運用、GitHub PagesによるWeb公開
+
+- 🖥️ **Visual Studio Code / GitHub Copilot**  
+  効率的なコーディング環境、AI支援によるコード補完
+
+- 💻 **CLI (Command Line Interface)**  
+  npm / Composer の利用、基本的なコマンド操作
+
+---
+
+### 📚 教育・教材開発
+
+- 👩‍🏫 **ITリテラシー教育**  
+  パソコンの基本操作、インターネットの使い方、セキュリティ教育
+
+- 🧑‍💻 **プログラミング講座**  
+  HTML / CSS / JavaScript を中心とした短期集中講座の企画・運営
+
+- 📄 **教材作成**  
+  スライド、ハンドアウト、演習問題の作成と改善
+
+---
+
+### 🌐 その他のスキル
+
+- 🌍 **英語での技術情報収集**  
+  海外のドキュメントやフォーラムを活用した情報収集
+
+- 🏠 **リモートワーク対応**  
+  Zoom / Google Meet を活用したオンライン授業・ミーティングの運営経験
+
+---
+
+## 📈 GitHub Stats
+
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%">
+  https://github-readme-stats.vercel.app/api?username=Yamada-Megumi&show_icons=true&theme=radical
+  https://github-readme-stats.vercel.app/api/top-langs/?username=Yamada-Megumi&layout=compact&theme=radical
 </div>
 
-### <div>I am Megumi, will be a website specialist 🚀. 
-I was previously an animator and game designer in Tokyo. After moving back to my hometown, I've been working as an IT instructor for over 20 years.</div>
+---
 
-- Currently, I am student at OUJ, but, I am working short programming courses at a vocational training school.
-- I can provide support in HTML, CSS, PHP, databases, and JavaScript.
-- I intend to create and be able to offer web services.
+## 🌱 現在取り組んでいること
 
-## My Skills
-### BackEnd Side
-<div>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50"></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50"></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50"></a>  
-<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobe_illustrator-icon.svg" alt="Illustrator" height="50"></a>  
-<a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="50"></a>  
-<a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50"></a>  
-<a href="https://www.adobe.com/in/products/xd.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobexd.png" alt="Adobe XD" height="50"></a>  
-<a href="https://jquery.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" height="50"></a>  
-<a href="https://vuejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="Vue.js" height="50"></a>  
-<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50"></a>  
-<a href="https://www.adobe.com/in/products/dreamweaver.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobedreamweaver.png" alt="Dreamweaver " height="50"></a>  
-</div>
+- Webサービスの企画・開発  
+- JavaScriptの応用学習  
+- 教材のブラッシュアップと公開
 
-### BackEnd and Other 
-<div>  
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50"></a>  
-<a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50"></a>  
-<a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50"></a>  
-<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50"></a>
-<a href="https://mariadb.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mariadb.png" alt="Maria DB" height="50"></a>
-<a href="https://www.apachefriends.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/xampp.png" alt="XAMPP" height="50"></a>
-<a href="https://https://www.mamp.info/" target="_blank"><img style="margin: 10px" src="https://www.mamp.info/__we_thumbs__/10/1172_mamp.png?m=1707204281" alt="XAMPP" height="50"></a>  
-</div>
+---
 
-## Connect with me  
-<div>
-<a href="https://github.com/Yamada-Megumi" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;">
-</a>
-<a href="https://codepen.com/yamada-megumi" target="_blank">
-<img src=https://img.shields.io/badge/codepen-%23131417.svg?&style=for-the-badge&logo=codepen&logoColor=white alt=codepen style="margin-bottom: 5px;">
-</a>
-<a href="https://linkedin.com/in/megumi-yamada-698a72161" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;">
-</a>  
-</div>  
+## 📫 つながりましょう！
 
-<!-- ## Github Stats  
-<div style="text-align:center"><img src="https://github-readme-stats.vercel.app/api?username=rishavanand&show_icons=true&count_private=true&hide_border=true" align="center"></div>-->
+- 🔗 GitHub: [Yamada-Megumi](https://github.com/Yamada-Megumi/)
+- 🎨 CodePen: Yamada-Megumi
+- 👁️ GitHub訪問者数:  
+  <img src="https://komarev.com/ghpvc/?username=Yamada-Megumi&stylere
 
-## Other
-<div style="text-align:center">
-<img src="https://komarev.com/ghpvc/?username=Yamada-Megumi&&style=flat-square" align="center">
-</div>
-<div style="text-align:center">
-<a href="https://www.buymeacoffee.com/Yamada-Megumi" target="_blank" style="display: inline-block;">
-<img
-src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" 
-align="center">
-</a>
-</div>
+---
+
+> ✨ このREADMEは、GitHubプロフィールに表示される特別なファイルです。
