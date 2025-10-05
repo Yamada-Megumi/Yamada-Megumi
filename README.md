@@ -63,18 +63,3 @@ src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=
 align="center">
 </a>
 </div>
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
-
-<!---
-- 👋 Hi, I’m @Yama
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-
-Yamada-Megumi/Yamada-Megumi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
