@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&duration=4000&color=F78DA7&lines=Hello+I'm+Megumi!;Front-end+Engineer;WordPress+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&duration=4000&lines=Hello+I'm+Megumi!;Front-end+Engineer;WordPress+Developer)](https://git.io/typing-svg)
 
 # 👩‍💻 Megumi Yamada
 
