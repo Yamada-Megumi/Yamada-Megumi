@@ -1,10 +1,12 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&duration=4000&color=F78DA7&lines=Hello+I'm+Megumi!;Front-end+Engineer;WordPress+Developer)](https://git.io/typing-svg)
+
 # 👩‍💻 Megumi Yamada
 
 こんにちは！Megumiです。  
 **Front end エンジニア** スキルアップ中です 🚀
 
 東京で **アニメーター** や **ゲームデザイナー** として活動後、Webサイト制作の経験を経て、地元に戻り、**IT講師**として20年以上の経験を積んできました。  
-現在は制作会社で **WordPressのフロントエンドエンジニア** として経験を積んでいます。
+現在は大学の単位を取得しながら、制作会社で **WordPressのフロントエンドエンジニア** として経験を積んでいます。
 
 ---
 
