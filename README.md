@@ -38,24 +38,24 @@
   テーマ・プラグインのカスタマイズ、サイト構築、SEO対策
 
 - 🔗 **REST API**  
-  APIの設計・利用、外部サービスとの連携
+  APIの利用、外部サービスとの連携
 
 ---
 
 ### 🔧 開発ツール & ワークフロー
 
 - 🧬 **Git / GitHub**  
-  バージョン管理、ブランチ運用、GitHub PagesによるWeb公開
+  バージョン管理、ブランチ運用
 
 - 🖥️ **Visual Studio Code / GitHub Copilot**  
   効率的なコーディング環境、AI支援によるコード補完
 
 - 💻 **CLI (Command Line Interface)**  
-  npm / Composer の利用、基本的なコマンド操作
+  基本的なコマンド操作
 
 ---
 
-### 📚 教育・教材開発
+### 📚 教育・教材開発（以前）
 
 - 👩‍🏫 **ITリテラシー教育**  
   パソコンの基本操作、インターネットの使い方、セキュリティ教育
@@ -80,9 +80,12 @@
 
 ## 📈 GitHub Stats
 
-<div align="center">
-  https://github-readme-stats.vercel.app/api?username=Yamada-Megumi&show_icons=true&theme=radical
-  https://github-readme-stats.vercel.app/api/top-langs/?username=Yamada-Megumi&layout=compact&theme=radical
+<div>
+
+![Megumi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yamada-Megumi&show_icons=true&theme=radical)  
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yamada-Megumi&layout=compact&theme=radical)
+
 </div>
 
 ---
@@ -90,17 +93,18 @@
 ## 🌱 現在取り組んでいること
 
 - Webサービスの企画・開発  
-- JavaScriptの応用学習  
-- 教材のブラッシュアップと公開
+- JavaScriptの応用学習
 
 ---
 
 ## 📫 つながりましょう！
 
-- 🔗 GitHub: [Yamada-Megumi](https://github.com/Yamada-Megumi/)
-- 🎨 CodePen: Yamada-Megumi
+- 🔗 GitHub: [Yamada-Megumi](https://github.com/Yamada-Megumi)  
+- 🎨 CodePen: [Megumi Yamada](https://codepen.io/Megumi-Yamada)  
+  - [K-netやまだ](https://codepen.io/K-net-the-animator)
+
 - 👁️ GitHub訪問者数:  
-  <img src="https://komarev.com/ghpvc/?username=Yamada-Megumi&stylere
+  <img src="https://komarev.com/ghpvc/?username=Yamada-Megumi&style=flat-square" alt="profile views" />
 
 ---
 
